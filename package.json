@@ -1,0 +1,12 @@
+{
+  "author": "Josh Goldberg <npm@joshuakgoldberg.com>",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "license": "MIT",
+  "name": "debugging-workshop",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module"
+}
