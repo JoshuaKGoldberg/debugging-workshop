@@ -8,6 +8,8 @@ Each strategy is useful only sometimes: part of getting good at debugging is kno
 ## Setup
 
 ```shell
+git clone https://github.com/JoshuaKGoldberg/debugging-workshop
+cd debugging-workshop
 npm i
 ```
 
