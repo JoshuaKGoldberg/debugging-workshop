@@ -11,6 +11,11 @@ Each strategy is useful only sometimes: part of getting good at debugging is kno
 npm i
 ```
 
+## Ground Rules
+
+- Please ask questions! Let me know if any of this isn't making sense, because if it's not for you, you're never the only one!
+- Everybody learns at their own pace. It's absolutely fine to not get it immediately.
+
 ## Workshop Steps
 
 To run an individual step's tests, run `npm run test -- ` and the workshop number.
@@ -21,6 +26,6 @@ npm run test -- 1
 ```
 
 1. [Thinking Deeply](./src/1-thinking-deeply)
-1. [Console Logs]()
-1. [Breakpoints]()
-1. [Conditional Breakpoints]()
+1. [Console Logs](./src/2-console-logs)
+1. [Breakpoints](3-breakpoints)
+1. [Conditional Breakpoints](4-conditional-breakpoints)
